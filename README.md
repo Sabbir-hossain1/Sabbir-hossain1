@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sabbir-hossain1
+- 👋 Hi, I’m Sabbir hossain
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning ASP.Net
 - 💞️ I’m looking to collaborate on any ASP.Net Project
