@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sabbir hossain
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning ASP.Net
-- 💞️ I’m looking to collaborate on any ASP.Net Project
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any Python Project
 - 📫 Connect me sabbir.cse.duet@gmail.com /fb:sabbirspacehossain
 
 <!---
