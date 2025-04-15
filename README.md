@@ -1,15 +1,15 @@
 ![logo](https://github.com/Sabbir-hossain1/Sabbir-hossain1/blob/main/profil%20banner.jpeg)
 <h1 align="center">Hi 👋, I'm Sabbir Hossain</h1>
-<h3 align="center">Full Stack React & Django Developer</h3>
+<h3 align="center">Full Stack NextJS & Django Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir-hossain1&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir-hossain1" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce, POS, Messenger and Various Projects**
+- 🔭 I’m currently working on **EduTech,Ecommerce, POS and Various Projects**
 - 👯 I’m looking to collaborate on any **Django React Project**
-- 💬 Ask me about **JavaScript, Python, ReactJS and Django**
+- 💬 Ask me about **JavaScript, Python, NextJS and Django**
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently working with Python(Flask and Django) and JavaScript(React)
+- 🌱 I’m currently working with Python(Django, DRF) and JavaScript(NextJS)
 - 💞️ I’m looking to collaborate on any Python and JavaScript Project 
 - 📫 Connect me sabbir.cse.duet@gmail.com /fb:sabbirspacehossain
 
