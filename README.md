@@ -1,4 +1,3 @@
-![logo](https://github.com/Sabbir-hossain1/Sabbir-hossain1/blob/main/profil%20banner.jpeg)
 <h1 align="center">Hi 👋, I'm Sabbir Hossain</h1>
 <h3 align="center">Full Stack NextJS & Django Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" />
